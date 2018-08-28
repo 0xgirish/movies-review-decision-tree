@@ -15,7 +15,4 @@ Sentiment classification of movie reviews using decision trees and forests
 > python main.py experiment_no              // from 2 to 5<br>
 <br>
 
-**Note**
-> You have option to either pro-process data (which will take time) or use pro-processed dat files
-<br>
 
