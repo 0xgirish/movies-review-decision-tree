@@ -19,7 +19,3 @@ Sentiment classification of movie reviews using decision trees and forests
 > You have option to either pro-process data (which will take time) or use pro-processed dat files
 <br>
 
-**Files**
-- selected-features-indices.txtx
-- tree_data                             // binary file with pre-processed data
-- random_forest                         // binary file with pre-processed data
